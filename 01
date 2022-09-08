@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>
+            My proflie
+        </title>
+    </head>
+    <body style = "background-color: #FF0000;" 
+        <h1>;Profile</hi>
+        <img src='U+2171.svg'>
+        <div>&emsp;My name is Putticha&emsp;</div>
+        <div>I'm from Thailand</div>
+        <div>I'm 17 years old</div>
+    </body>
+</html>    
